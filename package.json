@@ -1,0 +1,20 @@
+{
+  "name": "Admin",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "lipengzhou <mail@lipengzhou.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 8080 -o -c-1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "echarts": "^3.3.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.1.1",
+    "nprogress": "^0.2.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
